@@ -2,7 +2,15 @@
 
 the remote branch currently is at dfa67b702be5d30b5dc33ff31443a024dd8be7a8
 
-### 2. implicitly initialize the lock while by asking for the scaffold rev
+in the holochain repo:
+
+```
+git checkout -B debug-flake-lockfile dfa67b702be5d30b5dc33ff31443a024dd8be7a8
+Reset branch 'debug-flake-lockfile'
+git push -f
+```
+
+### 2. implicitly initialize the lock file by asking for the scaffold rev
 
 ```
 # verify scaffolding version and rev
