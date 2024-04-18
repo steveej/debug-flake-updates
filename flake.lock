@@ -190,15 +190,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1713461796,
-        "narHash": "sha256-UnIRP1NYWTXT4I5fs6+g31oS6M7g/HgOtPwzjWcW0Sk=",
+        "lastModified": 1713472487,
+        "narHash": "sha256-KLL4yvESe14SjDoAqi2vKzoDNk0qt/zgfmfwHEq2agc=",
         "owner": "holochain",
         "repo": "holochain",
-        "rev": "b3e182914b11e10f0c8cc1654ab3fbcc6b53e9bf",
+        "rev": "4aa8afd66e2b9fbeed49f9d76af80ed3d066e017",
         "type": "github"
       },
       "original": {
         "owner": "holochain",
+        "ref": "debug-flake-lockfile",
         "repo": "holochain",
         "type": "github"
       }
@@ -254,11 +255,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1713248628,
-        "narHash": "sha256-NLznXB5AOnniUtZsyy/aPWOk8ussTuePp2acb9U+ISA=",
+        "lastModified": 1712439257,
+        "narHash": "sha256-aSpiNepFOMk9932HOax0XwNxbA38GOUVOiXfUVPOrck=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "5672bc9dbf9d88246ddab5ac454e82318d094bb8",
+        "rev": "ff0dbd94265ac470dda06a657d5fe49de93b4599",
         "type": "github"
       },
       "original": {
@@ -336,11 +337,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1713406362,
-        "narHash": "sha256-85f70DM03RWqzahxXChSWcbnUYAKYBDBvyQ4P+kXVBk=",
+        "lastModified": 1712628742,
+        "narHash": "sha256-FIAlt8mbPUs8jRuh6xpFtYzDsyHzmiLNPcen8HwvD00=",
         "owner": "oxalica",
         "repo": "rust-overlay",
-        "rev": "05a4f1b28ee59f589c8a0ad877741de3c3bf894d",
+        "rev": "e7354bb9e5f68b2074e272fd5f5ac3f4848860ba",
         "type": "github"
       },
       "original": {
@@ -390,16 +391,17 @@
       },
       "locked": {
         "dir": "versions/0_2",
-        "lastModified": 1712687328,
+        "lastModified": 1713472487,
         "narHash": "sha256-KLL4yvESe14SjDoAqi2vKzoDNk0qt/zgfmfwHEq2agc=",
         "owner": "holochain",
         "repo": "holochain",
-        "rev": "f306345b5a14dc656f8bc51727338803f1e42361",
+        "rev": "4aa8afd66e2b9fbeed49f9d76af80ed3d066e017",
         "type": "github"
       },
       "original": {
         "dir": "versions/0_2",
         "owner": "holochain",
+        "ref": "debug-flake-lockfile",
         "repo": "holochain",
         "type": "github"
       }
